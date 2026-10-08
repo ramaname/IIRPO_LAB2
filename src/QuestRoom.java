@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class QuestRoom {
-    static String currentRoom = "Темнице";
+    static String currentRoom = "Зал";
     static List<String> inventory = new ArrayList<>();
 
     public static void main(String[] args) {
